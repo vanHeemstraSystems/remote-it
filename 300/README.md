@@ -25,4 +25,8 @@ $ docker run -d \
   remoteit/docker-extension:latest
 ```
 
-The Docker container is synchronized with both the https://app.remote.it/#/devices/ web interface as well as the local-to-the-device actual docker container (here: macOS Docker Desktop on Willem's Mac Mini). It can be started, stopped, pauzed, and deleted using the standard docker commands from the terminal window thus controlling your docker containers remotely from where ever you are.
+The Docker container is synchronized with both the https://app.remote.it/#/devices/ web interface as well as the local-to-the-device actual docker container (here: macOS Docker Desktop on Willem's Mac Mini). 
+
+**Note**: Make sure the port of the container (i.e. the service) is **Enabled**, otherwise the container can not be connected to. You can enable the service from the web interface, going to the particular container (e.g. ```Portainer (8000/tcp)```) and under the desired protocol (e.g. ```HTTPS```) tick the checkbox **Enable service**.
+
+It can be started, stopped, pauzed, and deleted using the standard docker commands from the terminal window thus controlling your docker containers remotely from where ever you are.
