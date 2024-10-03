@@ -1,12 +1,14 @@
-भंडार-नाम
+रिमोट-यह
 
-# भंडार का नाम
+# RemoteIT
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"remote.it" पर आधारित<https://remote.it/>
+
+"MacOS Docker डेस्कटॉप में रिमोटआईटी" पर आधारित...
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
