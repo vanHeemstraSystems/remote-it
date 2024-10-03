@@ -1,6 +1,6 @@
-रिमोट-यह
+remote-it
 
-# RemoteIT
+# रिमोटआईटी
 
 "Remote.It" पर आधारित<https://remote.it/>
 
