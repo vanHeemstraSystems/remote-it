@@ -2,9 +2,9 @@
 
 # रिमोटआईटी
 
-"Remote.It" पर आधारित<https://remote.it/>
+Based on "Remote.It" at <https://remote.it/>
 
-"MacOS Docker डेस्कटॉप में Remote.It" पर आधारित...
+Based on "Remote.It in MacOS Docker Desktop" at ... 
 
 "Remote.It डॉकर जंपबॉक्स - डॉकर डेस्कटॉप एक्सटेंशन (कैसे करें)" पर आधारित<https://www.youtube.com/watch?v=P020hGVcCOE>
 
@@ -14,7 +14,7 @@
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
