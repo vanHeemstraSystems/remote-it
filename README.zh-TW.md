@@ -2,9 +2,9 @@
 
 # 遠端IT
 
-基於“remote.it”<https://remote.it/>
+基於“Remote.It”，位於<https://remote.it/>
 
-基於「MacOS Docker 桌面中的 RemoteIT」...
+基於“MacOS Docker 桌面中的 Remote.It”...
 
 基於“Remote.It Docker Jumpbox - Docker 桌面擴充（操作方法）”，位於<https://www.youtube.com/watch?v=P020hGVcCOE>
 
