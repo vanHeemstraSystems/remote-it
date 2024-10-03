@@ -4,7 +4,7 @@
 
 Basé sur "Remote.It" à<https://remote.it/>
 
-Basé sur "Remote.It dans MacOS Docker Desktop" sur...
+Based on "Remote.It in MacOS Docker Desktop" at ... 
 
 Basé sur « Remote.It Docker Jumpbox - Docker Desktop Extension (How-To) » sur<https://www.youtube.com/watch?v=P020hGVcCOE>
 
@@ -14,9 +14,9 @@ Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
