@@ -8,13 +8,13 @@
 
 استنادًا إلى "Remote.It Docker Jumpbox - Docker Desktop Extension (كيفية)" في<https://www.youtube.com/watch?v=P020hGVcCOE>
 
-## 100 - Introduction
+## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
