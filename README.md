@@ -1,9 +1,9 @@
 remote-it
 # RemoteIT
 
-Based on "remote.it" at https://remote.it/
+Based on "Remote.It" at https://remote.it/
 
-Based on "RemoteIT in MacOS Docker Desktop" at ... 
+Based on "Remote.It in MacOS Docker Desktop" at ... 
 
 Based on "Remote.It Docker Jumpbox - Docker Desktop Extension (How-To)" at https://www.youtube.com/watch?v=P020hGVcCOE
 
