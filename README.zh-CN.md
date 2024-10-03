@@ -1,8 +1,10 @@
-存储库名称
+远程它
 
-# 存储库名称
+# 远程IT
 
-基于“ABC”<https://www.abc.com/>
+基于“remote.it”<https://remote.it/>
+
+Based on "RemoteIT in MacOS Docker Desktop" at ... 
 
 ## 100 - 简介
 
@@ -12,7 +14,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
