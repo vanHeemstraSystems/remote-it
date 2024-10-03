@@ -1,8 +1,10 @@
-اسم المستودع
+عن بعد
 
-# اسم المستودع
+# RemoteIT
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادا إلى "remote.it" في<https://remote.it/>
+
+استنادًا إلى "RemoteIT في MacOS Docker Desktop" في ...
 
 ## 100- مقدمة
 
