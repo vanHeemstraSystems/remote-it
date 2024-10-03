@@ -6,7 +6,7 @@
 
 基于“MacOS Docker 桌面中的 Remote.It”...
 
-Based on "Remote.It Docker Jumpbox - Docker Desktop Extension (How-To)" at <https://www.youtube.com/watch?v=P020hGVcCOE>
+基于“Remote.It Docker Jumpbox - Docker 桌面扩展（操作方法）”，位于<https://www.youtube.com/watch?v=P020hGVcCOE>
 
 ## 100 - 简介
 
