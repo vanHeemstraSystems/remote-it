@@ -6,6 +6,8 @@
 
 استنادًا إلى "RemoteIT في MacOS Docker Desktop" في ...
 
+استنادًا إلى "Remote.It Docker Jumpbox - Docker Desktop Extension (كيفية)" في<https://www.youtube.com/watch?v=P020hGVcCOE>
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
