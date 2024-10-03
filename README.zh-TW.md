@@ -1,4 +1,4 @@
-remote-it
+遠端它
 
 # 遠端IT
 
