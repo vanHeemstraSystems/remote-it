@@ -2,9 +2,9 @@
 
 # Informatique à distance
 
-Basé sur "remote.it" à<https://remote.it/>
+Basé sur "Remote.It" à<https://remote.it/>
 
-Basé sur "RemoteIT dans MacOS Docker Desktop" sur...
+Basé sur "Remote.It dans MacOS Docker Desktop" sur...
 
 Basé sur « Remote.It Docker Jumpbox - Docker Desktop Extension (How-To) » sur<https://www.youtube.com/watch?v=P020hGVcCOE>
 
