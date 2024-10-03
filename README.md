@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+remote-it
+# RemoteIT
 
-Based on "ABC" at https://www.abc.com/
+Based on "remote.it" at https://remote.it/
+
+Based on "RemoteIT in MacOS Docker Desktop" at ... 
 
 ## 100 - Introduction
 
