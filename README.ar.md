@@ -4,7 +4,7 @@
 
 استنادا إلى "Remote.It" في<https://remote.it/>
 
-استنادًا إلى "Remote.It في MacOS Docker Desktop" في ...
+Based on "Remote.It in MacOS Docker Desktop" at ... 
 
 استنادًا إلى "Remote.It Docker Jumpbox - Docker Desktop Extension (كيفية)" في<https://www.youtube.com/watch?v=P020hGVcCOE>
 
@@ -18,7 +18,7 @@
 
 ## 300 – بناء تطبيقنا
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
