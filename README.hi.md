@@ -4,7 +4,9 @@
 
 "remote.it" पर आधारित<https://remote.it/>
 
-"MacOS Docker डेस्कटॉप में रिमोटआईटी" पर आधारित...
+"MacOS Docker डेस्कटॉप में RemoteIT" पर आधारित...
+
+"Remote.It डॉकर जंपबॉक्स - डॉकर डेस्कटॉप एक्सटेंशन (कैसे करें)" पर आधारित<https://www.youtube.com/watch?v=P020hGVcCOE>
 
 ## 100 - परिचय
 
