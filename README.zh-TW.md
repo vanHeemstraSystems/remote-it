@@ -1,12 +1,14 @@
-儲存庫名稱
+遠端它
 
-# 儲存庫名稱
+# 遠端IT
 
-基於“ABC”<https://www.abc.com/>
+基於“remote.it”<https://remote.it/>
+
+基於「MacOS Docker 桌面中的 RemoteIT」...
 
 ## 100 - 簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
