@@ -2,7 +2,7 @@
 
 # RemoteIT
 
-استنادا إلى "Remote.It" في<https://remote.it/>
+Based on "Remote.It" at <https://remote.it/>
 
 استنادًا إلى "Remote.It في MacOS Docker Desktop" في ...
 
