@@ -11,3 +11,18 @@ On the iPad, download and install the Remote.It App.
 Sign in with your Remote.It account.
 
 Make sure the device (here: macOS Docker Desktop) has been registered and is connected with Remote.It. It will show up as **Docker Jumpbox** in the iPad App. It should list all containers of macOS Docker Desktop, now accessible through the iPad.
+
+## 300 - Managing the Docker containers on Devices through a Command Line Interface (CLI) over the Internet
+
+With a valid Remote.It registration key (e.g. XXXX-XXXX-XXXX-XXXXX-XXXX-XXXX-XXXX) you can open a terminal window from any computer connected to the Internet, with access allowed to ```remote.it```, and run following command to create a connection to such a device (here: macOS Docker Desktop):
+
+```
+$ docker run -d \
+  -e R3_REGISTRATION_CODE="XXXX-XXXX-XXXX-XXXXX-XXXX-XXXX-XXXX" \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  --restart unless-stopped \
+  --name remoteit_docker_jumpbox \
+  remoteit/docker-extension:latest
+```
+
+The Docker container is synchronized with both the https://app.remote.it/#/devices/ web interface as well as the local-to-the-device actual docker container (here: macOS Docker Desktop on Willem's Mac Mini). It can be started, stopped, pauzed, and deleted using the standard docker commands from the terminal window thus controlling your docker containers remotely from where ever you are.
