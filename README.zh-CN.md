@@ -4,7 +4,7 @@
 
 基于“remote.it”<https://remote.it/>
 
-Based on "RemoteIT in MacOS Docker Desktop" at ... 
+基于“MacOS Docker 桌面中的 RemoteIT”...
 
 ## 100 - 简介
 
